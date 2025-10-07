@@ -295,7 +295,7 @@ This crawler is for educational and research purposes. Please respect ESPN's rob
 
 - ESPN for providing comprehensive sports data
 - BeautifulSoup for HTML parsing
-- The open-source community for inspiration
+- My love for the Houston Rockets
 
 ## Support
 
