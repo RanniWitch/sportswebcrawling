@@ -90,18 +90,13 @@ print(f"Found {len(crawler.scraped_data['roster'])} players")
 ```
 ### Training Datasets
 
-```
-https://app.roboflow.com/basketballplayers-a5i9q/basketballtraditional-qgzma/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
-Screenshots before training.
+Screenshots before training
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d96aee73-a5da-4b9f-ada8-44406649b27b" />
 
 Screenshots after training.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/166c07ab-697e-4b8d-b134-f9aa5d6fedd7" />
-
-
-```
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d96aee73-a5da-4b9f-ada8-44406649b27b" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7cd071ba-0238-409e-8997-7074e0dbe7c5" />
+
+https://app.roboflow.com/basketballplayers-a5i9q/basketballtraditional-qgzma/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
 
 ## Example Output
 
