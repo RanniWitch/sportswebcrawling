@@ -90,10 +90,10 @@ print(f"Found {len(crawler.scraped_data['roster'])} players")
 ```
 ### Training Datasets
 
-Screenshots before training
+Screenshots before training:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d96aee73-a5da-4b9f-ada8-44406649b27b" />
 
-Screenshots after training.
+Screenshots after training:
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7cd071ba-0238-409e-8997-7074e0dbe7c5" />
 
 Link to the full training set.
