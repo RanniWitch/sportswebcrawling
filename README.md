@@ -100,6 +100,8 @@ Screenshots after training.
 
 
 ```
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7cd071ba-0238-409e-8997-7074e0dbe7c5" />
+
 ## Example Output
 
 ```
