@@ -1,6 +1,6 @@
 # ESPN Sports Web Crawler
 
-A comprehensive web crawler for extracting sports data from ESPN using intelligent table detection and BFS (Breadth-First Search) crawling. Integrating Roboflow's image detection system to visually detect players and have the ability to click on them and be provided with information in real-time.
+A comprehensive web crawler for extracting sports data from ESPN using intelligent table detection and BFS (Breadth-First Search) crawling. Integrating **Roboflow** image detection system to visually detect players and have the ability to click on them and be provided with information in real-time.
 
 ## Features
 
