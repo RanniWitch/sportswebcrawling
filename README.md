@@ -99,6 +99,8 @@ Screenshots after training:
 Link to the full training set.
 Using a train/validate/test split of 70/20/10
 
+(Only highlighting the players and the referees, in the future will train on the jersey numbers and coaches.)
+
 https://app.roboflow.com/basketballplayers-a5i9q/basketballtraditional-qgzma/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
 
 ## Example Output
