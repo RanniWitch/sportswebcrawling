@@ -88,7 +88,18 @@ crawler.crawl(max_pages=10, delay=1)
 # Access scraped data
 print(f"Found {len(crawler.scraped_data['roster'])} players")
 ```
+### Training Datasets
 
+```
+https://app.roboflow.com/basketballplayers-a5i9q/basketballtraditional-qgzma/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
+Screenshots before training.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d96aee73-a5da-4b9f-ada8-44406649b27b" />
+
+Screenshots after training.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/166c07ab-697e-4b8d-b134-f9aa5d6fedd7" />
+
+
+```
 ## Example Output
 
 ```
